@@ -1,0 +1,20 @@
+h1 {
+                background-color: #0B090B ;
+                color: white;
+                font-size: 50px;
+            }
+            body{
+                background-color:#01280D;
+                color: #fff;
+                font-size: 20px;
+            }
+            ul, ol {
+                background-color:#5EFC8D ;
+                color: #000;
+                font-weight: bold;
+            }
+            .link{
+                font-size: 30px;
+                font-weight: bold;
+                color: rgb(68, 60, 60);
+                 }
